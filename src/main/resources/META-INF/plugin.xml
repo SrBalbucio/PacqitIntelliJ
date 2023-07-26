@@ -5,18 +5,27 @@
 
   <!-- Public plugin name should be written in Title Case.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-  <name>PacqitIntelliJ</name>
+  <name>Pacqit for IDEA</name>
 
   <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-  <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="contato.pacqit@ravensoftware.foundation" url="https://www.ravensoftware.foundation">SrBalbucio</vendor>
 
   <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
        Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
   <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
-  ]]></description>
+Pacqit is a java project manager comparable to Maven or Gradle, but in a visual and intuitive way, working with simple terms and hardly requiring the user to edit configuration files.
+
+With Pacqit in addition to creating java projects you can:
+- Create and manage complex modules
+- Index and manage all dependencies saved on your computer
+- Automate compilation and construction of classes
+- Automatically hide projects
+- Work with polyglot programming (using CoffeeMoon and JASMB).
+
+Pacqit for IDEA makes using Pacqit inside IDEA easy by allowing you to manage all Pacqit tools directly from the IDE.
+
+If you want to learn more about how Pacqit works, visit: github.com/SrBalbucio/Pacqit]]></description>
 
   <!-- Product and plugin compatibility requirements.
        Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
